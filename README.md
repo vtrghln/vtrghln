@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vtrghln
 - 👀 I’m interested in web design
-- 🌱 I’m currently learning design
+- 🌱 I’m currently learning html, css and js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
